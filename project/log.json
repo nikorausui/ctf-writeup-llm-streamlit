@@ -1,0 +1,3 @@
+{
+    "https://gtfobins.github.io/gtfobins/awk/": "awk 'BEGIN {system(\"/bin/sh\")}'"
+}
